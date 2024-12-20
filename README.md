@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 Olá, eu sou o Rafael!
-Sou desenvolvedor Fullstack com formação em Análise e Desenvolvimento de Sistemas. Tenho experiência na construção de aplicações web, trabalhando tanto no front-end quanto no back-end. Meu objetivo é criar soluções eficientes, escaláveis e de fácil manutenção. Sou apaixonado por programação e por transformar ideias em código. Busco sempre me atualizar sobre as melhores práticas e novas tecnologias para entregar resultados de qualidade. Se você está interessado em colaborar ou precisa de ajuda com projetos, fique à vontade para entrar em contato!
+Sou desenvolvedor Fullstack com formação em Análise e Desenvolvimento de Sistemas. Tenho experiência na construção de aplicações web, trabalhando tanto no front-end quanto no back-end. Meu objetivo é criar soluções eficientes, escaláveis e de fácil manutenção. Busco sempre me atualizar sobre as melhores práticas e novas tecnologias para entregar resultados de qualidade. Se você está interessado em colaborar ou precisa de ajuda com projetos, fique à vontade para entrar em contato!
 
 ---
 
